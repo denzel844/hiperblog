@@ -10,3 +10,5 @@ El verdadero amor por las buenas practicas
 trucos muy buenosd del profesor
 
 incluye ejemplos en windows linux y macs
+
+disponible para todas las edades
